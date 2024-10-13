@@ -1,4 +1,4 @@
-export default function MainHeader() {
+export default function HeroSection() {
   return (
     <div>MainHeader</div>
   )
